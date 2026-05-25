@@ -11,7 +11,6 @@
 ```python
 class Developer:
     name       = "Jami Varaha Sai Kiran"
-    role       = "CS (AI & ML) Undergraduate"
     university = "GVP College for Degree & PG Courses (A), Visakhapatnam"
     cgpa       = 9.0  # 2023 – 2027
     seeking    = ["Data Analyst Intern", "ML Intern"]
@@ -86,14 +85,7 @@ class Developer:
 
 ---
 
-### 📋 Additional Projects
 
-| Project | Description | Link |
-|---|---|---|
-| 🎓 Online Attendance System | College attendance tracker with admin controls | [GitHub](https://github.com/JVSaikiran2005/attendance) |
-| 📊 College Results Portal | Results management portal for students | [GitHub](https://github.com/JVSaikiran2005/college_results) |
-
----
 
 ## 📜 Certifications
 
@@ -101,29 +93,9 @@ class Developer:
 |---|---|---|
 | 🎓 NPTEL | Data Science for Engineers | 2025 |
 | ☁️ Oracle | Cloud Infrastructure – AI Foundations Associate | 2025 |
-| 🏢 Infosys | Introduction to Machine Learning | 2026 |
-| 🏢 Infosys | Introduction to Business Intelligence | 2025 |
-| 🏢 Infosys | Introduction to NoSQL Databases | 2025 |
-| 🏢 Infosys | Fundamentals of Python Programming | 2025 |
-| ☁️ AWS | Introduction to Machine Learning on AWS | 2024 |
-| 🔵 IBM | Models and Platforms for Generative AI | 2024 |
-| 🔵 IBM | Introduction to Generative AI | 2024 |
-| 🔷 Microsoft | Multiple Learning Certificates | [View](https://learn.microsoft.com/en-us/users/jamivarahasaikiran0029/achievements) |
-| 🔵 IBM | SkillsBuild Learning Certificates | [View](https://skills.yourlearning.ibm.com/learning/completed) |
 
 ---
 
-## 💼 Virtual Work Experience
-
-| Company | Program | Platform |
-|---|---|---|
-| 🟢 Deloitte | Data Analytics Virtual Experience | Forage |
-| 🔵 Tata | GenAI Powered Data Analytics | Forage |
-| 🔵 Tata | Data Visualisation: Empowering Business with Insights | Forage |
-| 🟠 Amazon | Solutions Architecture Job Simulation | Forage |
-| 🔵 Walmart Global Tech | Advanced Software Engineering Simulation | Forage |
-
----
 
 ## 📊 GitHub Stats
 
