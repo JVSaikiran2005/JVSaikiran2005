@@ -53,7 +53,7 @@ class Developer:
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
@@ -100,10 +100,6 @@ class Developer:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Sai Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JVSaikiran2005&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JVSaikiran2005&layout=compact&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JVSaikiran2005&theme=github-dark-blue&hide_border=true)
 
