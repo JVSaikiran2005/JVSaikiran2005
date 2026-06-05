@@ -9,13 +9,12 @@
 ### 👋 Hey, I'm Sai Kiran!
 
 ```python
-class Developer:
     Name       = "Jami Varaha Sai Kiran"
     College    = "Gayatri Vidya Parishad College for Degree & PG Courses (A), Visakhapatnam"
-    cgpa       = 9.0  # 2023 – 2027
-    seeking    = ["Data Analyst Intern", "ML Intern"]
-    passions   = ["Machine Learning", "NLP", "Data Visualization", "AI Apps"]
-    contact    = "kiransai89127@gmail.com"
+    CGPA       = 9.0  # 2023 – 2027
+    Seeking    = ["Data Analyst Intern", "ML Intern"]
+    Passions   = ["Machine Learning", "NLP", "Data Visualization", "AI Apps"]
+    Contact    = "kiransai89127@gmail.com"
 ```
 
 ---
