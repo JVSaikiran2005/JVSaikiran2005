@@ -10,8 +10,8 @@
 
 ```python
 class Developer:
-    name       = "Jami Varaha Sai Kiran"
-    university = "GVP College for Degree & PG Courses (A), Visakhapatnam"
+    Name       = "Jami Varaha Sai Kiran"
+    College    = "Gayatri Vidya Parishad College for Degree & PG Courses (A), Visakhapatnam"
     cgpa       = 9.0  # 2023 – 2027
     seeking    = ["Data Analyst Intern", "ML Intern"]
     passions   = ["Machine Learning", "NLP", "Data Visualization", "AI Apps"]
@@ -98,15 +98,7 @@ class Developer:
 ---
 
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JVSaikiran2005&theme=github-dark-blue&hide_border=true)
-
-</div>
-
----
 
 ## 🤝 Connect with Me
 
