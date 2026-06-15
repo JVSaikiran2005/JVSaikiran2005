@@ -106,7 +106,7 @@ I am a Computer Science Engineering undergraduate specializing in Artificial Int
 
 ## 📜 Certifications & Achievements
 
--🏅 **NPTEL:** Data Science for Engineers
+-🏅 **NPTEL:** Data Science for Engineers<br>
 -☁️ **Oracle Cloud Infrastructure:** AI Foundations Associate
 
 
