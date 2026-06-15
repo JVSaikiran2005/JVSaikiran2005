@@ -1,12 +1,11 @@
-<!-- Hero Banner -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:4338CA&height=180&section=header&text=Jami%20Varaha%20Sai%20Kiran&fontSize=40&fontAlignY=40&fontColor=ffffff"/>
 
-  <h3>🤖 AI & Machine Learning Engineer</h3>
-  <p>Building intelligent, full-stack solutions for real-world problems.</p>
+  <h3>📊 Data Analytics & Machine Learning Engineer</h3>
+  <p>Computer Science Undergraduate specializing in AI/ML & Data-Driven Solutions</p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/varaha-sai-kiran-jami-61728029a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/varaha-sai-kiran-jami-61728029a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:kiransai89127@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 </div>
@@ -15,42 +14,44 @@
 
 ## 👋 About Me
 
-I am a passionate AI/ML developer and Full-Stack engineer currently pursuing my B.Tech. I bridge the gap between complex machine learning models and intuitive user experiences by building data-driven, production-ready web applications.
+I am a Computer Science Engineering undergraduate specializing in Artificial Intelligence and Machine Learning. I combine statistical analysis, predictive modeling, and full-stack development to build intelligent, localized applications and analytical dashboards that translate complex data into actionable insights.
 
-- 🎓 **Education:** B.Tech @ Gayatri Vidya Parishad College (2023–2027)
-- 📊 **Academic Excellence:** Current CGPA: **9.0**
-- 🌱 **Currently Mastering:** Large Language Models (LLMs), Generative AI pipelines, and Advanced Computer Vision.
-- 💬 **Ask me about:** Python, Flask architecture, Prompt Engineering, and integrating AI APIs into web apps.
+- 🎓 **Education:** B.Tech in CSE (AI & ML) @ Gayatri Vidya Parishad College (2023–2027)
+- 📈 **Academic Track:** Current CGPA: **9.0**
+- 🎯 **Career Focus:** Seeking Data Analyst / Machine Learning Intern roles to deliver business value through data-driven solutions.
+- ⚙️ **Core Strength:** Building and deploying local, open-source Machine Learning pipelines without relying heavily on third-party cloud APIs.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 🧠 Data Science & AI
+### 🧠 Data Science, AI & Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Gemini_AI-http?style=flat&logo=google&logoColor=white&color=blue" alt="Gemini AI"/>
-  <!-- Add other ML libraries you use here, e.g., NumPy, Pandas, Scikit-Learn -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
+<ul>
+  <li><b>Core Domains:</b> Supervised Learning, Predictive Modeling, Natural Language Processing (NLP), Model Evaluation, Object Detection (OpenCV).</li>
+</ul>
 
-### 🌐 Web Development
+### 📊 Data Visualization & Frameworks
 <p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E28743?style=flat&logo=tableau&logoColor=white" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
-### 🗄️ Databases & Tools
+### 💻 Development Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
 ---
@@ -61,39 +62,48 @@ I am a passionate AI/ML developer and Full-Stack engineer currently pursuing my 
   <tr>
     <td width="50%" valign="top">
       <h3>⛽ Fuel Express</h3>
-      <p>An on-demand, AI-powered fuel delivery platform designed to optimize logistics and user experience.</p>
+      <p>An online fuel delivery platform enabling role-based management and secure location delivery.</p>
       <ul>
-        <li>Integrated real-time <b>GPS Tracking</b> for delivery fleets.</li>
-        <li>Secured payment infrastructure utilizing <b>Razorpay API</b>.</li>
+        <li><b>Stack:</b> Flask, SQLite, JavaScript, Bootstrap, HTML/CSS.</li>
+        <li><b>Key Implementations:</b> Google Maps API for real-time location tracking and Razorpay for secure payments.</li>
+        <li>Built distinct modules for Users, Admins, and Delivery Agents.</li>
       </ul>
-      <!-- Replace '#' with your actual repository link if public -->
-      <a href="#">Code</a> | <a href="#">Demo</a>
+      <a href="https://github.com/JVSaikiran2005/Fuel-express">📁 Repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 MediAssist AI</h3>
-      <p>A smart healthcare companion bridging the gap between medical data and patient understanding.</p>
+      <h3>🤖 AI Content Generator</h3>
+      <p>A completely localized AI-based text generation system built to run locally without external APIs.</p>
       <ul>
-        <li>Leverages <b>Gemini AI</b> for contextual symptom analysis.</li>
-        <li>Provides automated medical report explanations and safety guidance.</li>
+        <li><b>Stack:</b> Flask, PyTorch, Hugging Face Transformers, Tailwind CSS.</li>
+        <li><b>Key Implementations:</b> Implemented the <code>Flan-T5</code> transformer model to generate context-aware text locally.</li>
+        <li>Designed a clean, responsive interface with REST API endpoints.</li>
       </ul>
-      <a href="#">Code</a> | <a href="#">Demo</a>
+      <a href="https://github.com/JVSaikiran2005/Ai-content">📁 Repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>✈️ WanderWise AI</h3>
-      <p>An intelligent, generative travel assistant that personalizes the journey planning experience.</p>
+      <p>A smart full-stack travel companion generating dynamic, localized day-by-day itineraries.</p>
       <ul>
-        <li>Generates custom, dynamic itineraries based on user constraints.</li>
-        <li>Uses LLM reasoning to recommend optimal local routes and attractions.</li>
+        <li><b>Stack:</b> Flask, Hugging Face Transformers, JavaScript, HTML/CSS.</li>
+        <li><b>Key Implementations:</b> Leveraged a local <code>distilGPT-2</code> architecture for private itinerary generation.</li>
+        <li>Integrated custom budget estimation and Google Maps location-activity tracking.</li>
       </ul>
-      <a href="#">Code</a> | <a href="#">Demo</a>
+      <a href="https://github.com/JVSaikiran2005/Ai-trip">📁 Repository</a>
     </td>
     <td width="50%" valign="top">
-      <!-- Leave blank or add a 4th project later! -->
-    </td>
+      </td>
   </tr>
 </table>
+
+---
+
+## 📜 Certifications & Achievements
+
+- 🏅 **NPTEL:** Data Science for Engineers
+- ☁️ **Oracle Cloud Infrastructure:** AI Foundations Associate
+- 🎓 **Academic Milestone:** Achieved 97% in Class X and 92% in Class XII Board examinations.
 
 ---
 
@@ -107,6 +117,6 @@ I am a passionate AI/ML developer and Full-Stack engineer currently pursuing my 
 ---
 
 <div align="center">
-  <p><i>"Turning AI concepts into products that create impact."</i></p>
+  <p><i>"Turning raw data into analytics and AI solutions that matter."</i></p>
   <img src="https://komarev.com/ghpvc/?username=JVSaikiran2005&color=4338CA&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
