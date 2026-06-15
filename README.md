@@ -15,12 +15,12 @@
 
 ## 👋 About Me
 
-I am a Computer Science Engineering undergraduate specializing in Artificial Intelligence and Machine Learning[cite: 10, 11]. [cite_start]I combine statistical analysis, predictive modeling, and full-stack development to build intelligent, localized applications and analytical dashboards that translate complex data into actionable insights.
+I am a Computer Science Engineering undergraduate specializing in Artificial Intelligence and Machine Learning. I combine statistical analysis, predictive modeling, and full-stack development to build intelligent, localized applications and analytical dashboards that translate complex data into actionable insights.
 
-- [cite_start]🎓 **Education:** B.Tech in CSE (AI & ML) @ Gayatri Vidya Parishad College (2023–2027) [cite: 10, 11]
-- [cite_start]📈 **Academic Track:** Current CGPA: **9.0** [cite: 12]
-- [cite_start]🎯 **Career Focus:** Seeking Data Analyst / AI & ML Intern roles to deliver business value through data-driven solutions[cite: 8].
-- [cite_start]⚙️ **Core Strength:** Building and deploying local, open-source Machine Learning pipelines without relying heavily on third-party cloud APIs[cite: 28, 31, 36].
+🎓 **Education:** B.Tech in CSE (AI & ML) @ Gayatri Vidya Parishad College for Degree and P.G. Courses(2023–2027) 
+📈 **Academic Track:** Current CGPA: **9.0** 
+🎯 **Career Focus:** Seeking Data Analyst / AI & ML Intern roles to deliver business value through data-driven solutions.
+⚙️ **Core Strength:** Building and deploying local, open-source Machine Learning pipelines without relying heavily on third-party cloud APIs.
 
 ---
 
@@ -41,7 +41,7 @@ I am a Computer Science Engineering undergraduate specializing in Artificial Int
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 <ul>
-  [cite_start]<li><b>Core Domains:</b> Supervised Learning, Predictive Modeling, Natural Language Processing (NLP), Model Evaluation, Object Detection (OpenCV)[cite: 18, 19].</li>
+  <li><b>Core Domains:</b> Supervised Learning, Predictive Modeling, Natural Language Processing (NLP), Model Evaluation, Object Detection (OpenCV).</li>
 </ul>
 
 ### 📊 Data Visualization & Frameworks
@@ -67,35 +67,35 @@ I am a Computer Science Engineering undergraduate specializing in Artificial Int
   <tr>
     <td width="50%" valign="top">
       <h3>⛽ Fuel Express</h3>
-      [cite_start]<p>An online fuel delivery platform enabling role-based management and secure location delivery[cite: 21, 22, 23].</p>
+      [cite_start]<p>An online fuel delivery platform enabling role-based management and secure location delivery.</p>
       <ul>
-        <li><b>Stack:</b> Flask, SQLite, JavaScript, Bootstrap, HTML/CSS[cite: 25].</li>
-        <li><b>Key Implementations:</b> Google Maps API for real-time location tracking and Razorpay for secure payments[cite: 24].</li>
-        <li>Built distinct modules for Users, Admins, and Delivery Agents[cite: 23].</li>
+        <li><b>Stack:</b> Flask, SQLite, JavaScript, Bootstrap, HTML/CSS.</li>
+        <li><b>Key Implementations:</b> Google Maps API for real-time location tracking and Razorpay for secure payments.</li>
+        <li>Built distinct modules for Users, Admins, and Delivery Agents.</li>
       </ul>
-      <a href="https://github.com/JVSaikiran2005/Fuel-express">📁 Repository</a> [cite: 26]
+      <a href="https://github.com/JVSaikiran2005/Fuel-express">📁 Repository</a> 
     </td>
     <td width="50%" valign="top">
       <h3>🤖 AI Content Generator</h3>
-      <p>A completely localized AI-based text generation system built to run locally without external APIs[cite: 27, 28, 31].</p>
+      <p>A completely localized AI-based text generation system built to run locally without external APIs.</p>
       <ul>
-        <li><b>Stack:</b> Flask, PyTorch, Hugging Face Transformers, Tailwind CSS[cite: 29, 30, 31].</li>
-        <li><b>Key Implementations:</b> Implemented the <code>Flan-T5</code> transformer model to generate context-aware text locally[cite: 28].</li>
+        <li><b>Stack:</b> Flask, PyTorch, Hugging Face Transformers, Tailwind CSS.</li>
+        <li><b>Key Implementations:</b> Implemented the <code>Flan-T5</code> transformer model to generate context-aware text locally.</li>
         <li>Designed a clean, responsive interface with REST API endpoints[cite: 29, 30].</li>
       </ul>
-      <a href="https://github.com/JVSaikiran2005/Ai-content">📁 Repository</a> [cite: 32]
+      <a href="https://github.com/JVSaikiran2005/Ai-content">📁 Repository</a> 
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>✈️ WanderWise AI</h3>
-      <p>A smart full-stack travel companion generating dynamic, localized day-by-day itineraries[cite: 33, 35].</p>
+      <p>A smart full-stack travel companion generating dynamic, localized day-by-day itineraries.</p>
       <ul>
-        <li><b>Stack:</b> Flask, Hugging Face Transformers, JavaScript, HTML/CSS[cite: 36, 38].</li>
-        <li><b>Key Implementations:</b> Leveraged a local <code>distilGPT-2</code> architecture for private itinerary generation[cite: 36].</li>
-        <li>Integrated custom budget estimation and Google Maps location-activity tracking[cite: 37, 38].</li>
+        <li><b>Stack:</b> Flask, Hugging Face Transformers, JavaScript, HTML/CSS.</li>
+        <li><b>Key Implementations:</b> Leveraged a local <code>distilGPT-2</code> architecture for private itinerary generation.</li>
+        <li>Integrated custom budget estimation and Google Maps location-activity tracking.</li>
       </ul>
-      <a href="https://github.com/JVSaikiran2005/Ai-trip">📁 Repository</a> [cite: 39]
+      <a href="https://github.com/JVSaikiran2005/Ai-trip">📁 Repository</a> 
     </td>
     <td width="50%" valign="top">
       </td>
@@ -106,13 +106,13 @@ I am a Computer Science Engineering undergraduate specializing in Artificial Int
 
 ## 📜 Certifications & Achievements
 
-- [cite_start]🏅 **NPTEL:** Data Science for Engineers [cite: 41]
-- [cite_start]☁️ **Oracle Cloud Infrastructure:** AI Foundations Associate [cite: 42]
+-🏅 **NPTEL:** Data Science for Engineers
+-☁️ **Oracle Cloud Infrastructure:** AI Foundations Associate
 
 
 ---
 
 <div align="center">
   <p><i>"Turning raw data into analytics and AI solutions that matter."</i></p>
-  <img src="https://komarev.com/ghpvc/?username=JVSaikiran2005&color=4338CA&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  
 </div>
