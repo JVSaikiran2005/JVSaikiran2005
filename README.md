@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:4338CA&height=180&section=header&text=Jami%20Varaha%20Sai%20Kiran&fontSize=40&fontAlignY=40&fontColor=ffffff"/>
 
-  <h3>🤖 AI & ML Engineer</h3>
+  <h3>Data Analytics, AI & ML Engineer</h3>
   <p>Computer Science Undergraduate specializing in AI/ML & Data-Driven Solutions</p>
 
   <p align="center">
@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-[cite_start]I am a Computer Science Engineering undergraduate specializing in Artificial Intelligence and Machine Learning[cite: 10, 11]. [cite_start]I combine statistical analysis, predictive modeling, and full-stack development to build intelligent, localized applications and analytical dashboards that translate complex data into actionable insights[cite: 5, 7].
+I am a Computer Science Engineering undergraduate specializing in Artificial Intelligence and Machine Learning[cite: 10, 11]. [cite_start]I combine statistical analysis, predictive modeling, and full-stack development to build intelligent, localized applications and analytical dashboards that translate complex data into actionable insights.
 
 - [cite_start]🎓 **Education:** B.Tech in CSE (AI & ML) @ Gayatri Vidya Parishad College (2023–2027) [cite: 10, 11]
 - [cite_start]📈 **Academic Track:** Current CGPA: **9.0** [cite: 12]
