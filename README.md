@@ -17,9 +17,9 @@
 
 I am a Computer Science Engineering undergraduate specializing in Artificial Intelligence and Machine Learning. I combine statistical analysis, predictive modeling, and full-stack development to build intelligent, localized applications and analytical dashboards that translate complex data into actionable insights.
 
-🎓 **Education:** B.Tech in CSE (AI & ML) @ Gayatri Vidya Parishad College for Degree and P.G. Courses(2023–2027) 
-📈 **Academic Track:** Current CGPA: **9.0** 
-🎯 **Career Focus:** Seeking Data Analyst / AI & ML Intern roles to deliver business value through data-driven solutions.
+🎓 **Education:** B.Tech in CSE (AI & ML) @ Gayatri Vidya Parishad College for Degree and P.G. Courses(2023–2027)<br>
+📈 **Academic Track:** Current CGPA: **9.0** <br>
+🎯 **Career Focus:** Seeking Data Analyst / AI & ML Intern roles to deliver business value through data-driven solutions.<br>
 ⚙️ **Core Strength:** Building and deploying local, open-source Machine Learning pipelines without relying heavily on third-party cloud APIs.
 
 ---
